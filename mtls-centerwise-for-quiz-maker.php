@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: MTLS Centerwise (For Quiz Maker)
- * Plugin URI:  https://mtls.tech/qm-franchise-plugin/
+ * Plugin URI:  https://mtls.tech/quiz-maker-franchise-plugin/
  * Description: Premium Lite Version with advanced UI, Super Admin Registration Control, and strict WP Security fixes mapped for AYS Quiz Maker.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      MTLS
  * License:     GPLv2 or later
  */
@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
 // ==========================================
 // 🔴 MASTER PRO UPGRADE LINK 
 // ==========================================
-define('MTLS_QM_PRO_LINK', 'https://mtls.tech/qm-franchise-plugin/'); 
+define('MTLS_QM_PRO_LINK', 'https://mtls.tech/quiz-maker-franchise-plugin/'); 
 
 // Global variables for showing form messages
 global $mtls_qm_sa_msg, $mtls_qm_student_msg, $mtls_login_error;
