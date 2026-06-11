@@ -3,7 +3,7 @@
  * Plugin Name: MTLS Centerwise (For Quiz Maker)
  * Plugin URI:  https://mtls.tech/quiz-maker-franchise-plugin/
  * Description: Premium Lite Version with advanced UI, Super Admin Registration Control, and strict WP Security fixes mapped for AYS Quiz Maker.
- * Version:     1.0.2
+ * Version:     1.0.3
  * Author:      MTLS
  * License:     GPLv2 or later
  */
